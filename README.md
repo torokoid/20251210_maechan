@@ -176,7 +176,7 @@ p.note { display: none; }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GDrkoIGefcw?si=sPnJzj01hhnlmdUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
-<h2><span class="yellow">ガスの注入で荷台に積んだがズボンべはよく見ます、電柱の上にはトランスシステム</span></h2>
+<h2><span class="yellow">プロパンガスのボンべへのガスの注入はユーザーの責任なので、荷台に積んだガスボンベはよく見ます、電柱の上にはトランスシステム</span></h2>
 <a href="20251210_002.JPG" target="_blank"><img src="20251210_002.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">メーファールーアン王立大学入り口の前も通過</span></h2>
