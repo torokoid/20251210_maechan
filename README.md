@@ -226,7 +226,7 @@ p.note { display: none; }
 <a href="20251210_017.JPG" target="_blank"><img src="20251210_017.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">今回の移動はチェンライ市街を通り越した先の南</span></h2>
-<a href="20251210_001.png" target="_blank"><img src="20251210_001.png" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251209_001.png" target="_blank"><img src="20251209_001.png" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">対面通行の道を西進して国道に戻ります</span></h2>
 <a href="20251210_018.JPG" target="_blank"><img src="20251210_018.JPG" alt="サンプル画像" class="responsive-media"></a>
